@@ -1,29 +1,30 @@
-# Vanilla JavaScript Projects
-- Designed and developed several projects using Vanilla JavaScript to solidify core concepts like DOM manipulation and event listeners.
-- Leveraged HTML, CSS, and JavaScript to implement interactive features and user interfaces.
+# React JS Projects
 
-### CRUD-Operation-Application
-This task management application allows users to create, view, update, and delete tasks. Tasks include a description and a due date, and are stored in the browser's localStorage for persistence. The user-friendly interface and responsive design ensure easy task management across various devices.
+### ContactHub: Contact Management App
 
-[Demo](https://crud-operation-application.vercel.app/) &emsp;  [Source Code](https://github.com/SharathM18/CRUD-Operation-Application.git)
+- Developed a React-based Single Page Application (SPA) with React Router DOM for seamless navigation, including features like adding, editing, deleting, searching contacts, pagination, and protected routes.
+- Integrated Firebase for user authentication, cloud storage, and profile photo uploads, along with Redux for state management.
+- Enhanced user experience with dark/light mode toggle, custom 404 error pages, form validation using React Hook Form and Zod, and a modular component structure.
 
-### Tic-Tac-Toe Game
-Developed a user-friendly Tic Tac Toe game using HTML, CSS, and JavaScript, showcasing proficiency in event handling, win patterns, and DOM manipulation. Ensured code readability and maintainability by organizing the logic into modular functions.
-
-[Demo](https://playtictactoegame.vercel.app/) &emsp;  [Source Code](https://github.com/SharathM18/Tic-Tac-Toe-Game.git)
-
-### Counter-Application
-The counter application is an interactive tool that allows users to easily increase, decrease, or reset a numerical count. With buttons for single and double increments or decrements.
-
-[Demo](https://counterapplicationjs.vercel.app/) &emsp;  [Source Code](https://github.com/SharathM18/Counter-Application.git)
-
-### Stopwatch-Application
-The Stopwatch application allows users to measure elapsed time with features like start, stop, reset functionalities, and lap recording. Users can monitor hours, minutes, and seconds in real-time on the interface. Implemented in JavaScript, the project demonstrates effective handling of timing events and DOM manipulation, providing a user-friendly way to track time intervals accurately.
-
-[Demo](https://stopwatchapplication.vercel.app/) &emsp;  [Source Code](https://github.com/SharathM18/Stopwatch-Application.git)
+ [Demo](https://contact-hub-sharath.vercel.app/) &emsp;  [Source Code](https://github.com/SharathM18/ContactHub)
 
 
-### Rock-Paper-Scissors Game
-Developed a responsive Rock-Paper-Scissors game using HTML, CSS, and JavaScript, showcasing proficiency in event handling, randomization, and DOM manipulation.
+### Task-Tracker Application
 
-[Demo](https://playrockpaperscissorsgame.vercel.app/) &emsp;  [Source Code](https://github.com/SharathM18/Rock-Paper-Scissors-Game.git)
+A Task Tracker application was developed using React. It features three columns: ToDo, Doing, and Done, to visually organize tasks based on their status. Users can easily add, update, and delete tasks and move them across columns as they progress, providing a clear and intuitive overview of task management. The app also implements offline fonts for faster loading and consistent typography. Additionally, it leverages local storage to save task data in the browser.
+
+ [Demo](https://task-tracker-sharathm.vercel.app/) &emsp;  [Source Code](https://github.com/SharathM18/Task-Tracker.git)
+
+
+
+### Weather Fetcher: Real-Time City Weather Data
+
+Weather Fetcher is a React application that allows users to retrieve real-time weather data for any city. By entering a city name, users can get up-to-date information about the current weather conditions, including temperature, weather condition, wind speed, humidity, and more.
+
+[Demo](https://accurateweathertoday.vercel.app/) &emsp;  [Source Code](https://github.com/SharathM18/Weather-Fetcher.git)
+
+### Interactive Password Generator using React
+
+Check out the interactive password generator built with React! You can customize the length, include numbers, and special characters, and easily copy the generated password to your clipboard.
+
+[Demo](https://interactive-password-generator.vercel.app/) &emsp; [Source Code](https://github.com/SharathM18/Interactive-Password-Generator.git)
