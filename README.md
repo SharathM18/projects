@@ -6,6 +6,6 @@ Projects I worked on.
 - It includes Role-Based Access Control (RBAC) with Admin, TA, and Manager roles, dynamic question generation based on skill and difficulty, real-time autosave, and webcam-based proctoring with violation tracking. 
 - The coding portal supports JavaScript, Python, Java, and .NET, with isolated backend execution. Built using React.js (Redux, React Query), NestJS (TypeScript), PostgreSQL, Python, and Git.
 
-## ZenCart – E-Commerce Platform
+## ZenCart: Full Stack E-Commerce Platform
 - A **microservices-based full-stack e-commerce application** that enables buyers to shop and sellers to manage products.  
 - It supports secure payments, order tracking, and an admin dashboard for complete system management.
